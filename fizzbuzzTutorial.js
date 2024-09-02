@@ -33,4 +33,4 @@ function fizzBuzzGeneratorArray (elements){
     }
 }
 
-fizzBuzzGeneratorArray(15);
+fizzBuzzGeneratorArray(20);
